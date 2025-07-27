@@ -1,0 +1,7 @@
+ID,Start time,Completion time,Email,Name,Last modified time,Your role at CERN,How many years of experience do you have?,How many years of experience do you have at CERN?,"Prior to this demonstration, did you have any knowledge of how a dependency confusion attack works?","Prior to this demonstration, were you aware that the acc-py environment could be affected by dependency confusion vulnerabilities?",How relevant do you believe this issue is for acc-py?,How severe do you find dependency confusion attacks?,Do you think that the solution provided is useful?,Please share any additional thoughts or comments you have on this topic,Were you aware of the potential privacy problems of telemetry?,Were you aware of all the informations collected by acc-py?,Do you think this might be a problem?,Please share any additional thoughts or comments you have on this topic
+1,6/20/24 9:48:07,6/20/24 10:20:31,anonymous,,,DevOps engineer,3 years,1 year,No,No,8,8,Yes,"[REDACTED]",No,No,6,"[REDACTED]"
+2,6/21/24 17:09:00,6/21/24 17:09:42,anonymous,,,DevOps Engineer,2,1,Yes,Yes,7,10,Yes,,No,Yes,5,
+3,6/25/24 13:15:23,6/25/24 13:23:29,anonymous,,,Technical Student,3,0.75,Yes,No,6,6,Yes,,Yes,No,3,
+4,6/25/24 16:15:21,6/25/24 16:33:47,anonymous,,,Senior Software Engineer,15,7,Yes,Yes,7,9,No,,Yes,Yes,1,
+5,6/25/24 14:00:25,6/25/24 14:19:44,anonymous,,,Senior Software Engineer,20,8,Yes,Yes,8,8,Yes,,Yes,Yes,4,
+6,6/26/24 9:28:14,6/26/24 9:33:59,anonymous,,,Acc-Py lead engineer,16,5,Yes,No,4,10,Yes,"[REDACTED]",Yes,Yes,0,"[REDACTED]"
